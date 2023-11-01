@@ -10,4 +10,4 @@ def test_multiply():
   assert multiply(2, 3) == 6, 'error in multiplication'
   
 def test_divide():
-  assert divide(10,5) == 3, 'error in division'
+  assert divide(10,5) == 2, 'error in division'
