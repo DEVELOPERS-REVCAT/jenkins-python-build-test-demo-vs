@@ -1,7 +1,7 @@
 from ops import *
 
 def test_add():
-  assert add(2,3) == 7, 'error in addition'
+  assert add(2,3) == 5, 'error in addition'
   
 def test_subtract():
   assert subtract(2, 3) == 2, 'error in subtraction'
